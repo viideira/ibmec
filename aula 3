@@ -1,0 +1,13 @@
+a-	A relação entre a LGPD e os Data Centers no Brasil
+A Lei Geral de Proteção de Dados trata da proteção dos dados pessoais no país, dispondo as condições em que esses podem ser tratados através da fundamentação da legislação em diversos valores. Por sua vez, elas impactam os Data Centers, que reúnem diversos tipos de informações, de modo que há a necessidade do estrito cumprimento da legislação quando os centers lidam com dados sensíveis. Especialistas recomendam algumas medidas como a preservação contra danos virtuais e físicos que estão expostos os servidores. Criptografia de dados, programas antimalware e podem tornar a interceptação de terceiros mais difícil. 
+
+
+
+b-	O formato aberto pode ser lido ou editado por qualquer aplicativo, o formato proprietário pode ser alterado apenas com o programa proprietário. 
+
+b2. Formatos de Arquivos Proprietários: .docx (Microsoft Word) .pst (Microsoft Outlook) .psd (Adobe Photoshop).
+
+Formatos de Arquivos Abertos: .csv (Comma-Separated Values), json (JavaScript Object Notation) .xml (eXtensible Markup Language) .odt (OpenDocument Text).
+
+B3. Os dados públicos são informações coletadas e armazenadas por órgãos governamentais que estão disponíveis para acesso e utilização pelos cidadãos. O uso de formatos de arquivos abertos para dados públicos garante maior acessibilidade, transparência e interoperabilidade, enquanto os formatos proprietários podem criar desafios relacionados a acesso, custo e suporte.
+
