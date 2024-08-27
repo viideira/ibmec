@@ -1,0 +1,17 @@
+A Pyton é famosa pela adaptabilidade e é ideal para scripts e protótipos rápidos, com execução interpretada. Já a JavaScript é fundamental para o desenvolvimento web, permitindo a criação de sites dinâmicos e interativos. Pode ser executado no navegador e em servidores, oferecendo flexibilidade. Por sua vez, C oferece controle detalhado sobre o hardware e a memória, mas requer compilação e tem uma sintaxe mais detalhada. O Ruby é multiparadigma, tem sintaxe semelhante a Python, mas com um estilo mais focado em elegância. É desenvolvido para desenvolvimento web, scripting e automação.
+
+Pyton
+print('Hello world!')
+print("João Videira 2024")
+
+
+Java
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("João Videira 2024");
+    }
+}
+
+Ruby
+puts "João Videira 2024"
