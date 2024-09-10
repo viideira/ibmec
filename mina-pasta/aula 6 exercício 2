@@ -1,0 +1,21 @@
+def imprimir_vogais(texto):
+    # Define o conjunto de vogais
+    vogais = 'ãeiouAEIOU'
+    
+    # Cria uma lista com as vogais encontradas no texto
+    resultado = [caractere for caractere in texto if caractere in vogais]
+    
+    # Converte a lista para uma string e imprime
+    print(''.join(resultado))
+
+# Solicita ao usuário a entrada de uma palavra ou frase
+texto = input("Digite uma palavra ou frase: ")
+imprimir_vogais(texto)
+
+Digite uma palavra ou frase: 
+joão
+oão
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
