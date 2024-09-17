@@ -1,0 +1,38 @@
+def calcular_resultado():
+    num1 = float(input("Digite o primeiro número: "))
+    num2 = float(input("Digite o segundo número: "))
+    operacao = input("Digite a operação desejada ('+', '-', '*' ou '/'): ")
+    
+    if operacao == '+':
+        resultado = num1 + num2
+    elif operacao == '-':
+        resultado = num1 - num2
+    elif operacao == '*':
+        resultado = num1 * num2
+    elif operacao == '/':
+        if num2 != 0:
+            resultado = num1 / num2
+        else:
+            print("Erro: Divisão por zero não é permitida.")
+            return
+    else:
+        print("Operação inválida.")
+        return
+    
+    print(f"O resultado da operação {num1} {operacao} {num2} é: {resultado}")
+
+# Exemplo de uso
+calcular_resultado()
+
+
+Digite o primeiro número: 
+2
+Digite o segundo número: 
+7
+Digite a operação desejada ('+', '-', '*' ou '/'): 
+*
+O resultado da operação 2.0 * 7.0 é: 14.0
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
