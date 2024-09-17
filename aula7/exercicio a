@@ -1,0 +1,14 @@
+def imprimir_info(nome, idade, cidade):
+    print(f"Nome: {nome}", end=" - ")
+    print(f"Idade: {idade}", end=" - ")
+    print(f"Cidade: {cidade}!")
+    
+# Exemplo de uso
+imprimir_info("Alice", 26, "lISBOA")
+
+
+Nome: Alice - Idade: 26 - Cidade: lISBOA!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
