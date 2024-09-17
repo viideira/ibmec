@@ -1,0 +1,15 @@
+def converter_temperatura():
+    celsius = float(input("Digite a temperatura em graus Celsius: "))
+    fahrenheit = (celsius * 9/5) + 32
+    print(f"A temperatura em Fahrenheit é: {fahrenheit:.2f}")
+
+# Exemplo de uso
+converter_temperatura()
+
+Digite a temperatura em graus Celsius: 
+32
+A temperatura em Fahrenheit é: 89.60
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
