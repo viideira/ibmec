@@ -1,0 +1,37 @@
+def coletar_nomes():
+    nomes = []
+    while True:
+        nome = input("Digite um nome (ou 'sair' para terminar): ")
+        if nome.lower() == 'sair':
+            break
+        nomes.append(nome)
+    
+    print("Nomes digitados:")
+    for nome in nomes:
+        print(nome)
+
+# Exemplo de uso
+coletar_nomes()
+
+Digite um nome (ou 'sair' para terminar): 
+João
+Digite um nome (ou 'sair' para terminar): 
+Pedro
+Digite um nome (ou 'sair' para terminar): 
+Marcelo
+Digite um nome (ou 'sair' para terminar): 
+Isadora
+Digite um nome (ou 'sair' para terminar): 
+Manuela
+Digite um nome (ou 'sair' para terminar): 
+sair
+Nomes digitados:
+João
+Pedro
+Marcelo
+Isadora
+Manuela
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
